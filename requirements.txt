@@ -1,0 +1,62 @@
+# ===== Dependabot Alert: 脆弱な依存関係 =====
+# 意図的に古いバージョンを指定しています
+
+# CVE-2019-12308, CVE-2021-35042 等
+Django==2.2.0
+
+# CVE-2023-30861 - Session cookie vulnerability
+Flask==2.2.0
+
+# CVE-2023-32681 - Unintended credential leak
+requests==2.28.0
+
+# CVE-2021-33503 - ReDoS
+urllib3==1.26.4
+
+# CVE-2022-42969 - ReDoS
+py==1.9.0
+
+# CVE-2021-23336 - Web cache poisoning
+python==3.8.0
+
+# CVE-2022-29155 - LDAP injection
+python-ldap==3.3.1
+
+# CVE-2021-27291 - ReDoS
+pygments==2.7.0
+
+# CVE-2020-36242 - Buffer overflow
+cryptography==3.3
+
+# CVE-2021-28363 - Certificate verification bypass
+pip==20.3.3
+
+# CVE-2024-3651 - SSRF
+idna==3.6
+
+# CVE-2022-40897 - ReDoS
+setuptools==59.0.0
+
+# CVE-2023-37920 - Removal of e-Tugra root certificate
+certifi==2022.12.7
+
+# CVE-2023-43804 - Cookie header leak
+urllib3==1.26.17
+
+# CVE-2020-25659 - Bleichenbacher attack
+cryptography==3.1
+
+# CVE-2024-21503 - Path traversal
+black==23.0.0
+
+# CVE-2022-42966 - ReDoS
+cleo==1.0.0
+
+# Development dependencies with vulnerabilities
+Jinja2==3.0.0
+MarkupSafe==2.0.0
+PyYAML==5.3.1
+Pillow==8.2.0
+numpy==1.21.0
+paramiko==2.7.1
+lxml==4.6.2

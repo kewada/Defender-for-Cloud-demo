@@ -1,0 +1,17 @@
+# ===== 注意: このファイルは意図的に .env やキーファイルを除外していません =====
+# Secret Scanning のデモのため
+
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+
+# 以下は通常 .gitignore に含めるべきだが、デモのため意図的に含めていない:
+# .env
+# config/keys/
+# *.pem
+# *.key
