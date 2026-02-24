@@ -1,7 +1,7 @@
 # ===== IaC Scanning: 脆弱なDockerfile =====
 
 # 脆弱性1: 古いベースイメージ
-FROM python:3.8-slim
+FROM python:3.14-slim
 
 # 脆弱性2: rootユーザーで実行
 USER root
