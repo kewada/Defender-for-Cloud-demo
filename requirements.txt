@@ -41,7 +41,7 @@ setuptools==59.0.0
 certifi==2022.12.7
 
 # CVE-2023-43804 - Cookie header leak
-urllib3==1.26.17
+urllib3==2.6.3
 
 # CVE-2020-25659 - Bleichenbacher attack
 cryptography==3.1
