@@ -29,7 +29,7 @@ pygments==2.7.0
 cryptography==3.3
 
 # CVE-2021-28363 - Certificate verification bypass
-pip==20.3.3
+pip==26.0
 
 # CVE-2024-3651 - SSRF
 idna==3.6
