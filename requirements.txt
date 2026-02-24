@@ -2,7 +2,7 @@
 # 意図的に古いバージョンを指定しています
 
 # CVE-2019-12308, CVE-2021-35042 等
-Django==2.2.0
+Django==6.0.2
 
 # CVE-2023-30861 - Session cookie vulnerability
 Flask==2.2.0
