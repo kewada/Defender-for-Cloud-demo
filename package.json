@@ -11,7 +11,7 @@
     "axios": "0.21.0",
     "jsonwebtoken": "8.5.0",
     "mongoose": "5.11.0",
-    "sequelize": "5.22.3",
+    "sequelize": "6.37.7",
     "handlebars": "4.7.6",
     "marked": "2.0.0",
     "glob-parent": "5.1.1",
