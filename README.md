@@ -1,6 +1,5 @@
 # Defender for Cloud - Advanced Security デモリポジトリ
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kewada/Defender-for-Cloud-demo/blob/main/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo/commits)
 [![GitHub repo size](https://img.shields.io/github/repo-size/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo)
 [![GitHub stars](https://img.shields.io/github/stars/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo/stargazers)
@@ -10,6 +9,7 @@
 [![CodeQL](https://github.com/kewada/Defender-for-Cloud-demo/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/kewada/Defender-for-Cloud-demo/actions/workflows/codeql-analysis.yml)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://openjdk.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kewada/Defender-for-Cloud-demo/blob/main/LICENSE)
 [![Demo Only](https://img.shields.io/badge/⚠️_Demo_Only-Do_Not_Use_in_Production-red.svg)](#)
 
 > ⚠️ **警告**: このリポジトリは **デモ・教育目的専用** です。意図的に脆弱性を含んでいます。本番環境では絶対に使用しないでください。
