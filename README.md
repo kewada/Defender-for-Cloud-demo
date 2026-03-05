@@ -1,11 +1,11 @@
 # Defender for Cloud - Advanced Security デモリポジトリ
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kewada/Defender-for-Cloud-demo/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/commits)
-[![GitHub repo size](https://img.shields.io/github/repo-size/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo)
-[![GitHub stars](https://img.shields.io/github/stars/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo/commits)
+[![GitHub repo size](https://img.shields.io/github/repo-size/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo)
+[![GitHub stars](https://img.shields.io/github/stars/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/kewada/Defender-for-Cloud-demo?cacheSeconds=3600)](https://github.com/kewada/Defender-for-Cloud-demo/pulls)
 
 [![CodeQL](https://github.com/kewada/Defender-for-Cloud-demo/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/kewada/Defender-for-Cloud-demo/actions/workflows/codeql-analysis.yml)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
