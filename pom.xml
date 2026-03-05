@@ -9,7 +9,21 @@
     <name>Defender Demo - Vulnerable Dependencies</name>
     <description>意図的に脆弱な依存関係を含むデモプロジェクト</description>
 
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
     <dependencies>
+        <!-- Servlet API for compilation -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>4.0.1</version>
+            <scope>provided</scope>
+        </dependency>
+
         <!-- CVE-2021-44228: Log4Shell (Critical) -->
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
