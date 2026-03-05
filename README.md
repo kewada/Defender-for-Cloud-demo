@@ -1,5 +1,8 @@
 # Defender for Cloud - Advanced Security デモリポジトリ
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/commits)
+[![GitHub repo size](https://img.shields.io/github/repo-size/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo)
+
 > ⚠️ **警告**: このリポジトリは **デモ・教育目的専用** です。意図的に脆弱性を含んでいます。本番環境では絶対に使用しないでください。
 
 ## 概要
