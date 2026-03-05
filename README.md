@@ -6,6 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/kewada/Defender-for-Cloud-demo)](https://github.com/kewada/Defender-for-Cloud-demo/pulls)
+
 [![CodeQL](https://github.com/kewada/Defender-for-Cloud-demo/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/kewada/Defender-for-Cloud-demo/actions/workflows/codeql-analysis.yml)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://openjdk.org/)
