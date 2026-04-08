@@ -23,7 +23,7 @@ python==3.8.0
 python-ldap==3.3.1
 
 # CVE-2021-27291 - ReDoS
-pygments==2.7.0
+pygments==2.19.2
 
 # CVE-2020-36242 - Buffer overflow
 cryptography==3.3
