@@ -35,7 +35,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.3.17</version>
+            <version>7.0.5</version>
         </dependency>
 
         <!-- CVE-2022-22978: Spring Security Auth Bypass -->
