@@ -15,7 +15,7 @@
     "handlebars": "4.7.6",
     "marked": "2.0.0",
     "glob-parent": "5.1.1",
-    "tar": "6.1.0",
+    "tar": "7.5.11",
     "path-parse": "1.0.6",
     "trim-newlines": "3.0.0",
     "ua-parser-js": "0.7.28",
