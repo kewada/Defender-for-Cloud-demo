@@ -4,7 +4,7 @@
   "description": "Defender for Cloud デモ用 - 脆弱な依存関係",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.18.1",
     "express": "4.17.1",
     "minimist": "1.2.5",
     "node-fetch": "2.6.0",
