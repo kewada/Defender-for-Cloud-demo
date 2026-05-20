@@ -32,7 +32,7 @@ cryptography==3.3
 pip==20.3.3
 
 # CVE-2024-3651 - SSRF
-idna==3.6
+idna==3.15
 
 # CVE-2022-40897 - ReDoS
 setuptools==59.0.0
